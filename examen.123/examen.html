@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+
+<head>
+    <br>
+    
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+<br>
+
+<title>PC GAMER</title>
+<style> 
+*{margin: 0; padding: 0;}
+html{background-color: black;}
+body{width: 100%; height: 1900PX; margin: auto;
+background-color: rgb(84, 83, 85);}
+header{width: 100%; height: 80px; background: rgb(170, 233, 23);}
+nav{width: 100%; height: 37px; background-color: gainsboro; padding: 5px;}
+main{width: 100%; height: 400px; }
+footer{width: 100%; height: 50px; background-color: rgb(29, 20, 117);}
+
+
+nav#c1{width: 7%; height: 25px;float: left;
+background-color: white;}
+nav#c2{width: 8%; height: 25px;float: left;
+background-color: white;}
+nav#c3{width: 6%; height: 25px;float: left;
+background-color: white;}
+nav#c4{width: 12%; height: 25px;float: left;
+background-color: white; }
+nav#c5{width: 25%; height: 25px;float: left;
+background-color: white;}
+nav#c6{width: 28%; height: 25px;float: left;}
+nav#c7{width: 8%; height: 25px;float: left;
+background-color: white;}
+
+article#c1{width: 30%; height: 400px;float: left; margin: 15px; margin-left: 20px;}
+article#c2{width: 30%; height: 400px;float: left;
+background-color: rgb(74, 131, 52);margin: 15px}
+article#c3{width: 30%; height: 400px;float: left;
+background-color: rgb(161, 214, 75);margin: 15px}
+article#c4{width: 30%; height: 400px;float: left;
+background-color: rgb(223, 156, 33);margin: 15px; margin-left: 20px;}
+article#c5{width: 30%; height: 400px;float: left;
+background-color: rgb(221, 26, 19);margin: 15px}
+article#c6{width: 30%; height: 400px;float: left;
+background-color: rgb(54, 171, 207);margin: 15px}
+article#c7{width: 30%; height: 400px;float: left;
+background-color: rgb(54, 171, 207);margin: 15px ;margin-left: 20px;}
+article#c8{width: 30%; height: 400px;float: left;
+background-color: rgb(54, 171, 207);margin: 15px}
+article#c9{width: 30%; height: 400px;float: left;
+background-color: rgb(54, 171, 207);margin: 15px}
+
+
+
+
+aside#left{width: 25%; height: 1300px;float: left;
+background-color: white;}
+article{width: 75%; height: 1300px;float: left;background-color: whitesmoke}
+footer{width: 100%; height: 100px;float: left;background-color: rgb(170, 233, 23)}
+
+
+</style>
+</head>
+
+<body>
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+    <div class="ws_images"><ul>
+            <li><img src="data1/images/portad45a.jpg" alt="santana" title="santana" id="wows1_0"/></li>
+            <li><img src="data1/images/portada.jpg" alt="" title="" id="wows1_1"/></li>
+            <li><img src="data1/images/porta.jpg" alt="" title="" id="wows1_2"/></li>
+            <li><a href="http://wowslider.net"><img src="data1/images/portada12.jpg" alt="javascript slideshow" title="" id="wows1_3"/></a></li>
+            <li><img src="data1/images/portada1.jpg" alt="elije lo mejor" title="elije lo mejor" id="wows1_4"/></li>
+        </ul></div>
+        <div class="ws_bullets"><div>
+            <a href="#" title="santana"><span><img src="data1/tooltips/portad45a.jpg" alt="santana"/>1</span></a>
+            <a href="#" title=""><span><img src="data1/tooltips/portada.jpg" alt=""/>2</span></a>
+            <a href="#" title=""><span><img src="data1/tooltips/porta.jpg" alt=""/>3</span></a>
+            <a href="#" title=""><span><img src="data1/tooltips/portada12.jpg" alt=""/>4</span></a>
+            <a href="#" title="elije lo mejor"><span><img src="data1/tooltips/portada1.jpg" alt="elije lo mejor"/>5</span></a>
+        </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slider jquery</a> by WOWSlider.com v9.0</div>
+    <div class="ws_shadow"></div>
+    </div>	
+    <script type="text/javascript" src="engine1/wowslider.js"></script>
+    <script type="text/javascript" src="engine1/script.js"></script>
+    <!-- End WOWSlider.com BODY section -->
+    <br>
+
+<header>
+    <br/>
+    <center><FONT SIZE=10 style="color: white;">&nbsp;&nbsp;LO MEJOR EN PC GAMER PARA UNA 
+         MEJOR EXPERIENCIA</FONT></center>
+</header>
+<nav>
+<CENTER>
+<nav id="c1"><FONT SIZE=5>Marca</FONT></nav>
+<nav id="c2"><FONT SIZE=5>Precio</FONT></nav>
+<nav id="c3"><FONT SIZE=5>Envio</FONT></nav>
+<nav id="c4"><FONT SIZE=5>Promociones</FONT></nav>
+<nav id="c5"><FONT SIZE=5>Condicion del producto</FONT></nav>
+<nav id="c6"><FONT SIZE=5></FONT></nav>
+<nav id="c7"><FONT SIZE=5>Registro</FONT></nav>
+</CENTER>
+</nav>
+<main>
+<aside id="left">
+ <center> <blockquote>
+<br>
+<br>
+<br>
+PORTATILES <br>
+<br>
+<br>
+<br>
+<br>
+(2K) PORTATILES<br>
+(1K) LAPTOPS<br>
+(5K) NOTEBOOKS<br>
+(6K) ULTRA NOTEBOOKS<br>
+(2K) 2-EN-1<br>
+(2K) CHRONEBOOK<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(3K) PC STUDIO     +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(1K) COMPONENTES DE<br>
+ COMPUTADORA    +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(5K) ACCCESORIO DE<br>
+ COMPUTADORAS    +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(3K) ALMACENAMIENTO     +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(6K) PROYECCION     +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(9K) COMPONENTES DE RED     +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(8K) SOFTWARE     +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(2K) ZONA GAMER    +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(6K) PUNTO DE VENTA    +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+(2K) OTROS COMPUTACION    +<br>
+<br>
+<br>
+<hr>
+<br>
+<br>
+</blockquote></center>
+</aside>
+<article>
+<article id="c1"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen1.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c2"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen2.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c3"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen3.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c4"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen4.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c5"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen5.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c6"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen6.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c7"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen7.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c8"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen8.jpg" width="100%" height="400px"  alt=""></article>
+<article id="c9"><img src="C:\Users\adm\Desktop\HATML\examen.123\imagen9.jpg" width="100%" height="400px"  alt=""></article>
+   
+</article>
+<footer>
+<br/>
+<center><FONT SIZE=10 style="color: white;">&nbsp;&nbsp;LO MEJOR EN PC GAMER PARA UNA 
+MEJOR EXPERIENCIA</FONT></center>
+</footer>
+
+</main>
+
+</body>
+</html>
